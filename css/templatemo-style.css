@@ -440,7 +440,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #experience .experience-img {
-  background: url('../images/experience-img.jpg') no-repeat;
+  background: url('../images/hi.JPG') no-repeat;
 }
 
 #experience .media-heading {
@@ -490,7 +490,7 @@ a:hover, a:active, a:focus {
 -----------------------------------------*/
 
 #quotes {
-    background: url('../images/quotes-bg.jpg') 50% 0 repeat-y fixed;
+    background: url('../images/ff.jpeg') 50% 0 repeat-y fixed;
     background-size: cover;
     background-position: center center;
     color: #ffffff;
